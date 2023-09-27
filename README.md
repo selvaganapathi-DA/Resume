@@ -1,8 +1,4 @@
 # Resume
-I majored in Software Engineering in Master's Degree , then earned a Advanced Diploma in BigData analytics.
-Dedicated and result-oriented software engineer with 2+ years of experience in understanding and anticipating the 
-agile infrastructure needs and creating an environment where development, quality assurance, staging & production 
-work can proceed efficiently and securely
-
+Detail-oriented and self-driven .NET Developer with a proven track record of success in developing and implementing web-based solutions, maintaining and updating web applications, and improving the whole programming process.
 
 Link : https://selvaganapathi-da.github.io/Resume/
